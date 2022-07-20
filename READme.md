@@ -1,6 +1,6 @@
 
 ```shell
-$ echo "Hello World!" > README.md
+print('Hello World!') > README.md
 ```
     
   
@@ -12,6 +12,5 @@ $ echo "Hello World!" > README.md
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klawcodes&layout=compact&theme=gotham" />
 </a>
-----
 
 Credit: [klawcodes](https://github.com/klawcodes)
