@@ -1,4 +1,6 @@
 
 ```shell
-print("Hello World!") > README.md
+print("Hello World!")
+console.log("Hello World!");
+<h1>Hello World</h1>
 ```
