@@ -12,11 +12,6 @@ Creator of various web tools and APIs;
 - 📫 How to reach me: hi@klaw.my.id
 - 🌐 Website: https://klaw.my.id
 
-#### Find me around the web 🌎:
-- Sharing updates on Twitter [@0xklaw](https://twitter.com/0xklaw)
-- Contributing to the community [@RIOTREVENGER](https://twitter.com/RIOTREVENGER)
-- Follow my work on Instagram [@riotrevenger](https://instagram.com/riotrevenger)
-
 <!--START_SECTION:waka-->
 
 ```txt
