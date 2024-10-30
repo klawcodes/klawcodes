@@ -1,3 +1,21 @@
+### Hello there 👋
+#### A Digital Native by day ☼ and a Polymathic Artisan by night ☾
+
+Full-Stack Developer & API Enthusiast;<br>
+Creator of various web tools and APIs;
+
+- ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.json`
+- 🌍 I'm mostly active within the **JavaScript/TypeScript Community**
+- 💻 Created: Larq API, Awas Imsak!, Unofficial Hololive ID website, and Capres Facts
+- 🌱 Learning and growing in the digital space
+- 💬 `ping` me about **APIs**, **Web development**, **JavaScript**, **TypeScript**, **Digital creation**
+- 📫 How to reach me: hi@klaw.my.id
+- 🌐 Website: https://klaw.my.id
+
+#### Find me around the web 🌎:
+- Sharing updates on Twitter [@0xklaw](https://twitter.com/0xklaw)
+- Contributing to the community [@RIOTREVENGER](https://twitter.com/RIOTREVENGER)
+- Follow my work on Instagram [@riotrevenger](https://instagram.com/riotrevenger)
 
 <!--START_SECTION:waka-->
 
