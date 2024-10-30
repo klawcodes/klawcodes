@@ -1,5 +1,5 @@
 ### Hello there 👋
-#### A Digital Native by day ☼ and a Polymathic Artisan by night ☾
+#### An Artist by day ☼ and a Programmer by night ☾
 
 Full-Stack Developer & API Enthusiast;<br>
 Creator of various web tools and APIs;
