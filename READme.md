@@ -1,7 +1,7 @@
 ### Hello there 👋
 #### An Artist by day ☼ and a Programmer by night ☾
 
-Full-Stack Developer & API Enthusiast;<br>
+Front-End Developer & API Enthusiast;<br>
 Creator of various website and artwork;
 
 - ⚙️ I use daily: `.js`, `.ts`, `.py`, `.html`, `.css` 
