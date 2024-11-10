@@ -15,11 +15,11 @@ Creator of various website and artwork;
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 19 mins   █████████████████████▒░░░   85.72 %
-Other        15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
-CSS          6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TypeScript   32 mins         █████████████████▓░░░░░░░   70.83 %
+Other        12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.48 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
