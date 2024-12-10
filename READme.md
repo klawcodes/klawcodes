@@ -15,7 +15,9 @@ Creator of various website and artwork;
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP          1 hr 6 mins     █████████████████████████   99.62 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
