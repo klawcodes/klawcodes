@@ -15,9 +15,7 @@ Creator of various website and artwork;
 <!--START_SECTION:waka-->
 
 ```txt
-PHP     1 hr 28 mins    ██████████████████████▒░░   88.81 %
-Bash    11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
