@@ -7,11 +7,11 @@ Creator of various website and artwork;
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   12 hrs 38 mins  ████████████████░░░░░░░░░   64.11 %
-PHP              4 hrs 59 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.35 %
-JavaScript       48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-JSON             20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-Astro            16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Blade Template   13 hrs 36 mins  ████████████████▒░░░░░░░░   65.22 %
+PHP              5 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
+JavaScript       40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+JSON             35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+TypeScript       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
