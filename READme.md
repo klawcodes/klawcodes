@@ -7,8 +7,7 @@ Creator of various website and artwork;
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   2 hrs 1 min     ████████████▓░░░░░░░░░░░░   50.87 %
-PHP              1 hr 57 mins    ████████████▒░░░░░░░░░░░░   49.13 %
+Blade Template   9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
