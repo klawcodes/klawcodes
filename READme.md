@@ -7,7 +7,9 @@ Creator of various website and artwork;
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart   1 hr 15 mins          █████████████████████▓░░░   86.21 %
+YAML   10 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+XML    1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
