@@ -7,11 +7,11 @@ Creator of various website and artwork;
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              9 hrs 50 mins         ██████████████▓░░░░░░░░░░   59.01 %
-Kotlin            5 hrs 3 mins          ███████▓░░░░░░░░░░░░░░░░░   30.29 %
-XML               39 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-YAML              37 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Java Properties   11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Dart              4 hrs 1 min           ██████████████▒░░░░░░░░░░   57.63 %
+Kotlin            2 hrs 27 mins         ████████▓░░░░░░░░░░░░░░░░   35.33 %
+YAML              10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Prolog            8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Git Config        7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
